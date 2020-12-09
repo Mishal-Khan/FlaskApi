@@ -1,0 +1,17 @@
+Werkzeug==1.0.1
+urllib3==1.26.2
+audioread==2.1.9
+resampy==0.2.2
+numba==0.51.2
+SoundFile==0.10.3.post1
+llvmlite==0.34.0
+lxml==4.6.2
+tensorflow==2.3.1
+gunicorn==20.0.4
+requests==2.25.0
+numpy==1.18.5
+librosa==0.8.0
+h5py==2.10.0
+categorical==0.1.4
+Flask==1.1.2
+Keras==2.4.3
